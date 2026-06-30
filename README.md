@@ -1,4 +1,6 @@
 ## Hi there 👋
+Im John Muriithi a tech enthusiast currently in training(undergraduate)
+I'm more inclined to software development and data analysis
 
 <!--
 **muriithi-johnny/muriithi-johnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
